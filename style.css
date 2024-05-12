@@ -1,0 +1,120 @@
+#main{
+        margin: 50px 50px 50px 50px;
+        width:50%;
+        text-align: justify;
+        float: left;
+        
+}
+#Explore-btn{
+
+             width:150px;
+             height:70px;
+             margin: 0px 0px 0px 7px;
+}
+#distance{
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+#distance1{
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 1px;
+}
+#main1{
+    float:inline-end;
+    display:flex;
+    width: 600px;
+    height: 600px;
+    
+}
+#nddiv{
+    display :block;
+    margin-top: 700px;
+    
+}
+#nddivv{
+    background-color: rgb(205, 205, 216);
+}
+#combine-btn{
+    color:white;
+    background-color: black;
+    margin: 0px;
+
+}
+#img2{
+        width:100%;
+
+}
+#img3 {
+    width:auto;
+    display: flex;
+    margin:40px 40px 40px 40px;
+    
+    float: left;
+    align-content: justify;
+    padding:10px;
+}
+#img3:hover{
+    background-color: greenyellow;
+    
+
+}
+.row {
+        padding:50px;
+        height:100px;
+        width: auto;
+        height: 300px;
+        display: inline;
+        float: left;
+        margin:40px 40px 40px 40px;
+      }
+      #img4 {
+        width: 35%;
+        display: flex;
+        margin:300px 40px 40px 40px;
+        float: left;
+        align-content: justify;
+        padding:10px;
+    }
+
+    #main2{
+        float:inline-end;
+        display:flex;
+        margin: 300px 50px 50px 50px;
+        width:50%;
+        text-align: justify;
+        text-combine-upright: 20px;;
+    }
+    #img5 {
+        width: 95%;
+       
+        margin:10px 40px 40px 40px;
+        
+        align-content: justify;
+        padding:10px;
+    }
+
+    .carousel{
+        padding:40px;
+
+    }
+
+    #img7{
+        width: 95%;
+        align-self : center;
+       
+        margin:10px 40px 40px 40px;
+        
+        align-content: center;
+        padding:50px;
+
+    }
+    #img8{
+        width: 100%;
+        align-self : center;
+       
+         
+        padding:5px;
+
+    }
